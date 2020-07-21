@@ -1,9 +1,8 @@
 # jvm-study
-jvm
 
 ![](https://github.com/YuTianShi/jvm-study/raw/master/pic/image1.png)
 
-## 方法执行过程
+## 方法执行过程
 
 - jvm申请内存
   
@@ -22,5 +21,5 @@ jvm
 - 创建对象
   
 
-## 堆空间分代划分
+## 堆空间分代划分
 ![](https://github.com/YuTianShi/jvm-study/raw/master/pic/image.png)
