@@ -1,6 +1,6 @@
 # jvm-study
 
-![](https://github.com/YuTianShi/jvm-study/raw/master/pic/image1.png)
+![](pic/image1.png)
 
 ## 方法执行过程
 
@@ -22,4 +22,4 @@
   
 
 ## 堆空间分代划分
-![](https://github.com/YuTianShi/jvm-study/raw/master/pic/image.png)
+![](pic/image.png)
