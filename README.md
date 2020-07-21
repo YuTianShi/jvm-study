@@ -1,7 +1,7 @@
 # jvm-study
 jvm
 
-![](file://C:\Users\15089\AppData\Roaming\marktext\images\2020-07-20-21-06-44-image.png)
+![](https://github.com/YuTianShi/jvm-study/raw/master/pic/image1.png)
 
 ## 方法执行过程
 
@@ -23,4 +23,4 @@ jvm
   
 
 ## 堆空间分代划分
-![](file://F:\code\jvm-study\pic\image.png)
+![](https://github.com/YuTianShi/jvm-study/raw/master/pic/image.png)
