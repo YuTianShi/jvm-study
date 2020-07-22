@@ -25,7 +25,7 @@
 ![](pic/image.png)
 ## outOfMemory异常
 
-![](pic\image2.jpg)
+![](pic/image2.jpg)
 
 ```
 https://docs.oracle.com/javase/8/docs/technotes/tools/unix/java.html
