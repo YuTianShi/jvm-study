@@ -56,7 +56,9 @@ public class Location {
     }
 
     public static void main(String[] args) {
-
+        StringTest1 a = new StringTest1();
+        StringTest2 b = new StringTest2();
+        System.out.println(a.getA() == b.getB());
 
     }
 

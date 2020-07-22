@@ -11,6 +11,7 @@ public class JVMObject {
     public final static String MAN_TYPE = "man"; // 常量
     public static String WOMAN_TYPE = "woman";  // 静态变量
     public static void  main(String[] args)throws Exception {
+        String json = "{\"name\":  \"123\"}";
         Teacher T1 = new Teacher();
         T1.setName("Mark");
         T1.setSexType(MAN_TYPE);
