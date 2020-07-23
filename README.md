@@ -64,7 +64,7 @@ https://docs.oracle.com/javase/8/docs/technotes/tools/unix/java.html
 
 熬过多次垃圾回收的对象就越难回收。---老年代
 
-![](pic\image4.jpg)
+![](pic/image4.jpg)
 
 - 复制算法
   
@@ -88,9 +88,9 @@ https://docs.oracle.com/javase/8/docs/technotes/tools/unix/java.html
 
 # jvm中的垃圾回收器
 
-![](pic\image5.jpg)
+![](pic/image5.jpg)
 
-![](pic\image6.jpg)
+![](pic/image6.jpg)
 
 ## Serial/Serial Old
 
@@ -112,4 +112,4 @@ useAdaptiveSizePolicy:吞吐量=运行用户代码时间/(运行用户代码时�
 
 ## ParNew/CMS （并发 多线程 专业老年代）
 
-![](pic\image7.jpg)
+![](pic/image7.jpg)
