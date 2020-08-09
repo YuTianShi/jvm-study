@@ -41,7 +41,7 @@ https://docs.oracle.com/javase/8/docs/technotes/tools/unix/java.html
 - [ ] Metaspace：方法区异常----（XX:MetaspaceSize=10M -XX:MaxMetaspaceSize=10M）
   
 
-# 常量池（方法区）
+# 常量池（方法区）
 
 1. class常量池
   
@@ -86,19 +86,19 @@ https://docs.oracle.com/javase/8/docs/technotes/tools/unix/java.html
 3.两遍扫描
 ```
 
-# jvm中的垃圾回收器
+# jvm中的垃圾回收器
 
 ![](pic/image5.jpg)
 
 ![](pic/image6.jpg)
 
-## Serial/Serial Old
+## Serial/Serial Old
 
 ```
 最古老的，单线程（串行），只适用于几十兆到一两百兆， 鸡肋
 ```
 
-## parallel Scavenge/parallel old
+## parallel Scavenge/parallel old
 
 ```
 参数：
@@ -110,7 +110,7 @@ useAdaptiveSizePolicy:吞吐量=运行用户代码时间/(运行用户代码时�
 多线程
 ```
 
-## ParNew/CMS （并发 多线程 专业老年代）
+## ParNew/CMS （并发 多线程 专业老年代）
 
 ![](pic/image7.jpg)
 
@@ -131,35 +131,35 @@ useAdaptiveSizePolicy:吞吐量=运行用户代码时间/(运行用户代码时�
 解析不一定：java有动态绑定，有可能为初始化后进行；
 ```
 
-## 加载阶段虚拟机需要完成以下3件事情
+## 加载阶段虚拟机需要完成以下3件事情
 
 1.通过一个类的全限定名来获取定义此类的二进制字节流;2.将这个字节流所代表的静态存储结构转为方法去的运行数据结构；3.在内存中生成一个代表这个类的java.lang.class对象，作为方法区这个类的各种数据的访问入口。
 
-## 校验（-Xverify:none 禁止验证）
+## 校验（-Xverify:none 禁止验证）
 
 1.文件格式校验；2.元数据校验（方法，字段，类）；3.字节码校验；4.符号引用校验
 
-## 准备
+## 准备
 
 静态变量
 
-## 解析
+## 解析
 
 解析阶段是jvm将常量池内的符号引用替换为直接引用的过程
 
 初始化
 
-# 双亲委派的好处
+# 双亲委派的好处
 
 稳定
 
-# 打破双亲委派
+# 打破双亲委派
 
 Tomcat 自己实现了类加载器，打破了双亲委派
 
 spi jdbc有做这样的处理
 
-# 方法的调用
+# 方法的调用
 
 1. invokestatic（非虚方法）：用来调用静态方法；
   
@@ -170,12 +170,12 @@ spi jdbc有做这样的处理
 4. invokeinterface（虚方法）：指令用于调用接口方法，它会在运行时搜索一个实现了这个接口方法的对象，找出适合的方法进行调用
   
 
-# 分派
+# 分派
 
-## 静态分派
+## 静态分派
 
 方法的重载
 
-## 动态分派
+## 动态分派
 
 方法的重写
