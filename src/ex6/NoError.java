@@ -1,6 +1,6 @@
 package ex6;
 /**
- * @author King老师
+ * @author sty
  * 加了finally为啥不会异常
  */
 public class NoError {

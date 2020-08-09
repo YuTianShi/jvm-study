@@ -3,7 +3,7 @@ package ex2.oom;
 import java.nio.ByteBuffer;
 
 /**
- * @author King老师
+ * @author sty
  * VM Args：-XX:MaxDirectMemorySize=100m
  * 限制最大直接内存大小100m
  */

@@ -1,6 +1,6 @@
 package ex6;
 /**
- * @author King老师
+ * @author sty
  * 在 synchronized 生成的字节码中，其实包含两条 monitorexit 指令，是为了保证所有的异常条件，都能够退出
  * 这就涉及到了 Java 字节码的异常处理机制
  */

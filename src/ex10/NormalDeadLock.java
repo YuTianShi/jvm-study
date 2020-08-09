@@ -53,7 +53,7 @@ public class NormalDeadLock {
     }
 
     public static void main(String[] args) throws InterruptedException {
-        //主线程，代表king老师
+        //主线程，代表sty
         Thread.currentThread().setName("Peter");
         Peter peter = new Peter("King");
         peter.start();

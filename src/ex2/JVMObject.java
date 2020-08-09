@@ -1,7 +1,7 @@
 package ex2;
 
 /**
- * @author King老师
+ * @author sty
  * VM参数
  * -Xms30m -Xmx30m  -XX:MaxMetaspaceSize=30m  -XX:+UseConcMarkSweepGC -XX:-UseCompressedOops
  *

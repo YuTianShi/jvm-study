@@ -1,6 +1,6 @@
 package ex6;
 /**
- * @author King老师
+ * @author sty
  * IntegerCache及修改
  * -XX:AutoBoxCacheMax=256
  */

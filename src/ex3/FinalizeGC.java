@@ -1,6 +1,6 @@
 package ex3;
 /**
- * @author  King老师
+ * @author  sty
  * 对象的自我拯救
  */
 public class FinalizeGC {

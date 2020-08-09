@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 /**
- * @author King老师
+ * @author sty
  *Stream 并行迭代
  */
 public class ParallelStreamTest {

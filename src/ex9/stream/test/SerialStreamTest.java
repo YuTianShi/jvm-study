@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 /**
- * @author King老师
+ * @author sty
  *Stream 串行迭代
  */
 public class SerialStreamTest {

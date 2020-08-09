@@ -8,7 +8,7 @@ import java.util.Properties;
 import java.util.Set;
 
 /**
- * @author King老师
+ * @author sty
  * Attach使用入门
  */
 

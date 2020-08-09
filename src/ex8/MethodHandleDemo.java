@@ -4,7 +4,7 @@ import java.lang.invoke.MethodHandles;
 import java.lang.invoke.MethodType;
 
 /**
- * @author 【享学课堂】 King老师
+ * @author 【享学课堂】 sty
  * 方法句柄（MethodHandle）使用案例
  **/
 public class MethodHandleDemo {

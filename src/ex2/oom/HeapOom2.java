@@ -5,7 +5,7 @@ import java.util.List;
 
 
 /**
- * @author King老师
+ * @author sty
  * VM Args：-Xms30m -Xmx30m     堆的大小30M
  * 造成一个堆内存溢出(分析下JVM的分代收集)
  * GC调优---生产服务器推荐开启(默认是关闭的)

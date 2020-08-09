@@ -1,6 +1,6 @@
 package ex3;
 /**
- * @author  King老师
+ * @author  sty
  * VM Args：-XX:+PrintGC
  * 判断对象存活
  */

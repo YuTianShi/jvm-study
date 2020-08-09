@@ -1,6 +1,6 @@
 package ex8;
 /**
- * @author 【享学课堂】 King老师
+ * @author 【享学课堂】 sty
  * 静态分派--方法的重载--编译阶段
  */
 public class StaticDispatch{

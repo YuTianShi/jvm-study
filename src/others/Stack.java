@@ -1,7 +1,7 @@
 package others;
 
 /**
- * @author  King老师
+ * @author  sty
  * 手写一个栈
  */
 public class Stack {

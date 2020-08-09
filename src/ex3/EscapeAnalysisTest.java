@@ -1,6 +1,6 @@
 package ex3;
 /**
- * @author King老师
+ * @author sty
  * 逃逸分析-栈上分配
  * -XX:-DoEscapeAnalysis -XX:+PrintGC
  */

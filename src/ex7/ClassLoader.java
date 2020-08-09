@@ -1,6 +1,6 @@
 package ex7;
 /**
- * @author 【享学课堂】 King老师
+ * @author 【享学课堂】 sty
  *类加载器
  **/
 public class ClassLoader {

@@ -3,7 +3,7 @@ package ex9.stream.test;
 import java.util.ArrayList;
 import java.util.List;
 /**
- * @author King老师
+ * @author sty
  * 测试parallelStream线程池线程数仅为cpu的核心数
  */
 public class PStream {

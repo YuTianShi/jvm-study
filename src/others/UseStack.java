@@ -3,7 +3,7 @@ package others;
 import others.Stack;
 
 /**
- * @author King老师
+ * @author sty
  * 内存泄漏--案例
  */
 public class UseStack {

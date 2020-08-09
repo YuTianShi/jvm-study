@@ -1,7 +1,7 @@
 package others;
 
 /**
- * @author King老师
+ * @author sty
  */
 public class MallOrder {
     class Order{

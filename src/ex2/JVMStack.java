@@ -1,6 +1,6 @@
 package ex2;
 /**
- * @author King老师
+ * @author sty
  * VM参数
  * JVM对栈帧空间的优化
  *

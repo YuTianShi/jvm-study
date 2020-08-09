@@ -5,7 +5,7 @@ import ex9.stream.test.Student;
 import java.util.*;
 import java.util.stream.Collectors;
 /**
- * @author King老师
+ * @author sty
  * Stream使用
  */
 public class StuWithStream {

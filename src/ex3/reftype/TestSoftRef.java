@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * @author King老师
+ * @author sty
  * 软引用
  * -Xms20m -Xmx20m
  */

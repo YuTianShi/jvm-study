@@ -1,7 +1,7 @@
 package ex8;
 
 /**
- * @author King老师
+ * @author sty
  * 动态分派（多态）
  */
 public class DynamicDispatch {

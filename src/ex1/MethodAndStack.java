@@ -1,6 +1,6 @@
 package ex1;
 /**
- * @author King老师
+ * @author sty
  * JAVA方法的运行与虚拟机栈
  */
 public class MethodAndStack {

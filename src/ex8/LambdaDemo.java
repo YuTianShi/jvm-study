@@ -1,6 +1,6 @@
 package ex8;
 /**
- * @author 【享学课堂】 King老师
+ * @author 【享学课堂】 sty
  * Lambda表达式字节码查看
  **/
 public class LambdaDemo {

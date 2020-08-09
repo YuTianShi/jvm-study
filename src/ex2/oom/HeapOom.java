@@ -2,7 +2,7 @@ package ex2.oom;
 
 
 /**
- * @author  King老师
+ * @author  sty
  * VM Args：-Xms30m -Xmx30m -XX:+PrintGCDetails
  * 堆内存溢出（直接溢出）
  */

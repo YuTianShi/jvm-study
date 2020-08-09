@@ -1,6 +1,6 @@
 package ex8;
 /**
- * @author 【享学课堂】 King老师
+ * @author 【享学课堂】 sty
  * 接口的调用字节码查看
  **/
 public class Invoke implements I {

@@ -1,6 +1,6 @@
 package ex1;
 /**
- * @author King老师
+ * @author sty
  * 虚拟机栈溢出 -Xss
  */
 public class StackError {

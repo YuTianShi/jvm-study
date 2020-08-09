@@ -3,7 +3,7 @@ package ex9.stream;
 import java.util.*;
 
 /**
- * @author King老师
+ * @author sty
  * Stream使用入门
  */
 public class StreamDemo {

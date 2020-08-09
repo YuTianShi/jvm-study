@@ -1,7 +1,7 @@
 package ex1;
 
 /**
- * @author King老师
+ * @author sty
  * 栈帧执行对内存区域的影响
  */
 public class Person {

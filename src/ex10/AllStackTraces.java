@@ -3,7 +3,7 @@ package ex10;
 import java.util.Map;
 
 /**
- * @author 【享学课堂】 King老师
+ * @author 【享学课堂】 sty
  * VM Args：-Xms20m -Xmx20m -Xmn2m -XX:+PrintGC
  * 如果无法连接服务器，也可以使用java.lang.Thread类的getAllStackTraces（）方法用于获取
  */

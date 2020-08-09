@@ -4,7 +4,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
 /**
- * @author King老师
+ * @author sty
  * finally字节码的处理
  */
 public class StreamDemo {

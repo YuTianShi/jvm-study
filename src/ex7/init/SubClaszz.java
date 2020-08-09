@@ -1,7 +1,7 @@
 package ex7.init;
 
 /**
- * @author 【享学课堂】 King老师
+ * @author 【享学课堂】 sty
  * 子类
  */
 public class SubClaszz extends SuperClazz {

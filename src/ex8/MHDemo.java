@@ -2,7 +2,7 @@ package ex8;
 import java.lang.invoke.MethodHandles;
 
 /**
- * @author 【享学课堂】 King老师
+ * @author 【享学课堂】 sty
  * 方法句柄（MethodHandle）入门
  **/
 public class MHDemo {

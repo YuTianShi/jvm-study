@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Random;
 
 /**
- * @author King老师
+ * @author sty
  * 性能测试对比
  */
 public class App 

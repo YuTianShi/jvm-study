@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author King老师
+ * @author sty
  * 常规的迭代
  */
 public class IteratorTest {

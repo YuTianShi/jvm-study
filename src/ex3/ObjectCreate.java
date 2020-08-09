@@ -1,6 +1,6 @@
 package ex3;
 /**
- * @author King老师
+ * @author sty
  * JVM遇到new关键字
  *
  **/

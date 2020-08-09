@@ -2,7 +2,7 @@ package others;
 
 import java.util.ArrayList;
 /**
- * @author King老师
+ * @author sty
  */
 public class HeapGC {
     byte[] _100KB = new byte[1024*100];//100KB

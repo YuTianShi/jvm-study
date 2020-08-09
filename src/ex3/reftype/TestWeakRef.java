@@ -3,7 +3,7 @@ package ex3.reftype;
 import java.lang.ref.WeakReference;
 
 /**
- * @author King老师
+ * @author sty
  * 弱引用
  */
 public class TestWeakRef {

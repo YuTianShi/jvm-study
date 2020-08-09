@@ -1,6 +1,6 @@
 package ex6;
 /**
- * @author King老师
+ * @author sty
  * 装箱拆箱字节码层面分析
  */
 public class Box {

@@ -1,6 +1,6 @@
 package ex7.init;
 /**
- * @author 【享学课堂】 King老师
+ * @author 【享学课堂】 sty
  *初始化的各种场景
  * 通过VM参数可以观察操作是否会导致子类的加载 -XX:+TraceClassLoading
  **/
